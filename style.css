@@ -56,17 +56,22 @@
     margin-top: 220px;
 }
 .main-discription{
-    font-size: 18px;
+    font-size: 28px;
     color: gray;
     margin-top: 40px;
 }
 .list-item{
     margin-top: 40px;
 }
-li{
+#icon{
+  margin-right: 15px;
+}
+.box-icon li{
+    margin: 5px;
     list-style: none;
-    font-size: 18px;
+    font-size: 25px;
     color: gray;
+    background-color: aqua;
 }
 /* main part -2 */
 .main-title-2{
